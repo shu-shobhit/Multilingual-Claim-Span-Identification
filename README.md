@@ -10,5 +10,3 @@ for a token classification task to be used by the model.
 • Model Development: Fine-tuned BERT and Multilingual BERT models specifically for claim-span identification. Implemented
 advanced architectures such as BERT with a CNN head for enhanced performance.
 
-
-## Note : This project is ongoing
